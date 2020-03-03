@@ -1,0 +1,86 @@
+/* Custom css */
+
+/*font-family: 'Nunito', ;*/
+/*font-family: 'Arimo', ;*/
+
+.p-t{padding-top: 60px;}
+.p-b{padding-bottom: 60px;}
+h, h2, h3, h4, h5, h6{font-family: 'Nunito'; margin: 0; padding: 0;}
+
+a:focus, a:hover{ outline: none;}
+a:hover{text-decoration: none;}
+
+*,ul{margin: 0;padding: 0;}
+*,li{list-style: none;}
+input:focus,
+select:focus,
+textarea:focus,
+button:focus {outline: none;}
+body{	font-size: 15px;line-height: 25px;font-family: 'Arimo';ont-weight: 400; color: #626262;
+}
+.tm-h2 {
+    font-size: 61px;
+    line-height: 70px;
+    font-family: 'Nunito', ;
+    font-weight: 700;
+    color: #ffffff;
+    text-transform: capitalize;
+}
+.tm-h2 span{
+	color: #aed34b;
+}
+.tm-h3 {
+    font-size: 45px;
+    line-height: 1;
+    font-family: 'Nunito', ;
+    font-weight: 700;
+    color: #232323;
+    text-transform: capitalize;
+    display: inline-block;
+    position: relative;
+}
+.tm-h4 {
+    font-size: 32px;
+    line-height: 1;
+    font-family: 'Nunito', ;
+    font-weight: 700;
+    color: #fff;    
+}
+.tm-h5 {
+    font-size: 24px;
+    line-height: 1;
+    font-family: 'Nunito', ;
+    font-weight: 700;
+    color: #fff;    
+}
+.tm-h6 {
+    font-size: 16px;
+    line-height: 1;
+    font-family: 'Nunito', ;
+    font-weight: 400;
+    color: #fff;    
+}
+a:focus, a:hover{
+	outline: none;
+}
+a:hover{
+    text-decoration: none;
+}
+*,ul{
+	margin: 0;
+	padding: 0;
+}
+*,li{
+	list-style: none;
+}
+input:focus,
+select:focus,
+textarea:focus,
+button:focus {
+    outline: none;
+}
+
+
+
+
+
